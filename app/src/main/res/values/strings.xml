@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LiverpoolSearching</string>
+    <string name="label_hint_search_in_liverpool">Buscar en liverpool</string>
 </resources>
